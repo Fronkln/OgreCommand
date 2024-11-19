@@ -3,8 +3,9 @@
  Player Fighter Command modding for Yakuza 3 and Yakuza 4
 # Usage
 1) Download the latest release.
-2) Take the .ofc file for the game you are modding from the Resources folder and place it on your mods root dir. Example: mods/My Moveset Mod/ogre_command.ofc
-3) Edit the OFC file with Ogre Commander in the Tools folder
+2) Put Ogre Command folder in your mods folder
+3) Take the .ofc file for the game you are modding from the Resources folder and place it on your mods root dir. Example: mods/My Moveset Mod/ogre_command.ofc
+4) Edit the OFC file with Ogre Commander in the Tools folder
 # Important
 * You can reload your changes in-game by pressing Shift+U
 * Use Landlord String Data as a reference for animation IDs. 
