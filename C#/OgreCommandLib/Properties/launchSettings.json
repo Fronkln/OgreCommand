@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OgreCommandLib": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Program Files (x86)\\Steam\\steamapps\\common\\Yakuza 3\\ogre_command_src\""
+    }
+  }
+}
